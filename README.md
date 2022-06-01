@@ -59,7 +59,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 
 ## Code Standards
 
-1. Fork DIAMOND
+1.Fork DIAMOND
 Navigate to https://github.com/idaholab/DIAMOND
 Click the "Fork" button in the upper right
 Clone your fork to your local machine (replace "username" with your GitHub username):
