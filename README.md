@@ -57,8 +57,17 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
 - **[Lendio](https://lendio.com)** -->
 
-## Overview
+## Code Standards
+Fork DIAMOND
+Navigate to https://github.com/idaholab/DIAMOND
+Click the "Fork" button in the upper right
+Clone your fork to your local machine (replace "username" with your GitHub username):
 
+git clone https://github.com/username/DIAMOND.git
+
+If this returns "fatal: Unable to find remote helper for 'https'" you might be behind a firewall. Try:
+
+git clone git@github.com:username/DIAMOND.git
 
 ## Contributing
 
