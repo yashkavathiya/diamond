@@ -31,7 +31,7 @@ DIAMOND is a data model that interfaces to the various data sources and function
     * Reveal cost-saving opportunities
     * Improve the visual perception of all parts necessary for operations and maintenance
 
-## Learning Laravel
+<!-- ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
@@ -55,7 +55,10 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
 - **[OP.GG](https://op.gg)**
 - **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+- **[Lendio](https://lendio.com)** -->
+
+## Overview
+
 
 ## Contributing
 
