@@ -7,19 +7,29 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p> -->
 
-## About Laravel
+## About Laravel Diamod Project
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+<!-- Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as: -->
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
+<!-- - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
 - Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
 - Database agnostic [schema migrations](https://laravel.com/docs/migrations).
 - [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- [Real-time event broadcasting](https://laravel.com/docs/broadcasting). -->
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+<!-- Laravel is accessible, powerful, and provides tools required for large, robust applications. -->
+DIAMOND is a data model that interfaces to the various data sources and functionalities associated with nuclear to ensure a seamless flow of data and their methods. DIAMOND benefits the nuclear power industry by providing a model which can be used by the various applications and data sources within a nuclear power plant (NPP) to standardize a format for data storage and exchange. This enables the creation of a data warehouse within a NPP, providing numerous benefits. These benefits can include:
+
+    * Direct and indirect cost savings through the automation of the manual search for data
+    * Enable the sharing and comparison of data from various tools from a single or multiple plants
+    * Enable the digital transformation of data
+    * Increase frequencies of needed data that are sparse in nature (such as failure signatures)
+    * Reduce the need for training on various tools for plant staff
+    * Enable a holistic staff perception of plant activities
+    * Reveal cost-saving opportunities
+    * Improve the visual perception of all parts necessary for operations and maintenance
 
 ## Learning Laravel
 
